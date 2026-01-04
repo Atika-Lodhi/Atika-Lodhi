@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hey there 👋
 
-<!--
-**Atika-Lodhi/Atika-Lodhi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Atika, a Computer Science student and tech enthusiast.  
 
-Here are some ideas to get you started:
+I love creating cozy and small projects for practice and fun, and I value imagination in everything I work on.  
+I mostly work with web technologies — Python, Java, HTML/CSS, and a bit of JavaScript.  
+I also explore graphic design and UI/UX, and I’m currently diving into game development and animation.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+This is a fresh profile where I’ll be sharing small projects, experiments, and things I’m learning. Everything here is built from scratch, no copy/paste templates.
+
+---
+
+## Tools & Tech
+- **Graphic Design & UI/UX:** Photoshop, Illustrator, Figma, Canva  
+- **Game Development:** Godot  
+- **Animation:** Krita  
+- **Programming & Web:** Python, Java, HTML, CSS, JavaScript  
+
+---
+
+## A Bit About Me
+- 🎨 Graphic & UI/UX design enthusiast  
+- 🎮 Exploring game development & animation  
+- 🤖 Obsessed with robotics  
+- 🌌 Fascinated by astrophysics  
+- 🌱 Always learning and building small cozy projects

@@ -1,4 +1,4 @@
-# Hey there 👋
+# Salam 👋
 
 I'm Atika, a Computer Science student and tech enthusiast.  
 
